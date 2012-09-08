@@ -1,4 +1,4 @@
-// first c++ prog
+// problem 2
 
 #include <iostream>
 using namespace std;

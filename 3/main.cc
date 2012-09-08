@@ -1,4 +1,4 @@
-// first c++ prog
+// problem 3
 
 #include <iostream>
 using namespace std;
@@ -17,6 +17,6 @@ int main()
 		}
 	}
 
-	cout << "Prime factor is: " << checknumber << endl;
+	cout << "highest prime factor is: " << primefactor << endl;
 	return 0;
 }
