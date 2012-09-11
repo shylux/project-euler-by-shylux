@@ -1,4 +1,4 @@
-// problem 7
+// problem 8
 
 #include <stdio.h>
 #include <stdlib.h>
